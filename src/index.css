@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	text-align: center;
+	padding: 100px;
+}
+
+p {
+	margin: 20px 0;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+input,
+select {
+	padding: 5px;
+	font-size: 20px;
+}
+
+span {
+	margin-left: 7px;
+}
